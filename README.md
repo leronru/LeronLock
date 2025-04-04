@@ -23,7 +23,7 @@ This tool is intended for educational purposes only. It should not be used for a
 ## How to Use
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/LeronLock.git
+    git clone https://github.com/leronru/LeronLock.git
     ```
 2. Install the necessary dependencies:
     ```bash
