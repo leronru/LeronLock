@@ -31,7 +31,7 @@ This tool is intended for educational purposes only. It should not be used for a
     ```
 3. Run the script:
     ```bash
-    python 1.py
+    python LeronLock.py
     ```
 
 ## License
