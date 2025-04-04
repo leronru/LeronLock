@@ -28,7 +28,7 @@ This tool is intended for educational purposes only. It should not be used for a
 
 2. Navigate to the project directory:
     ```bash
-cd LeronLock
+    cd LeronLock
     ```
 
 3. Install the necessary dependencies:
