@@ -26,11 +26,17 @@ This tool is intended for educational purposes only. It should not be used for a
     ```bash
     git clone https://github.com/leronru/LeronLock.git
     ```
-2. Install the necessary dependencies:
+
+2. Navigate to the project directory:
+    ```bash
+    cd LeronLock
+    ```
+
+3. Install the necessary dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the script:
+4. Run the script:
     ```bash
     python LeronLock.py
     ```
