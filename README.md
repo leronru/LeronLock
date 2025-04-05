@@ -39,8 +39,10 @@ This tool is intended for educational purposes only. It should not be used for a
 4. Run the script:
     ```bash
     python LeronLock.py
-    ```
-
+   ```
+## App Screenshot
+![App Screenshot](Screenshot_20250405-233423.jpg)
+        
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
